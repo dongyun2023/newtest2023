@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:attr="http://schemas.android.com/apk/res/com.game.yangtechplatform"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#1AEEEEEE"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+<!--         <com.game.yangtechplatform.utils.GifImageView -->
+<!--             android:id="@+id/image_view" -->
+<!--             android:layout_width="wrap_content" -->
+<!--             android:layout_height="wrap_content" -->
+<!--             android:src="@drawable/wait" -->
+<!--             attr:auto_play="true" /> -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="处理中请稍候..........."
+            android:textColor="@color/black"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+</LinearLayout>

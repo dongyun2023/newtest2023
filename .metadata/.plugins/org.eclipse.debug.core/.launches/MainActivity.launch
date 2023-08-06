@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/launcher4k/src/com/zhong/action/kl01_4k/MainActivity.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.zhong.action.kl01_4k.MainActivity"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="launcher4k"/>
+</launchConfiguration>

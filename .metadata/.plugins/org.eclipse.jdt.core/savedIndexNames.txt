@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+D:\Launcher_2015\launcher_4k\.metadata\.plugins\org.eclipse.jdt.core
+3060677500.index
+3141309962.index
+1638509197.index
+3667740398.index
+2046079941.index

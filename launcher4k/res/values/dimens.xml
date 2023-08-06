@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- 首页相关设置 -->
+    <dimen name="index_textsize_small">15sp</dimen>
+    <dimen name="index_textsize_normal">20sp</dimen>
+    <dimen name="index_textsize_big">25sp</dimen>
+    <dimen name="index_textsize_super_big">35sp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 应用管理字体配置 -->
+    <dimen name="app_manager_textsize_normal">25sp</dimen>
+
+</resources>

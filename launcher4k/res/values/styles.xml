@@ -1,0 +1,30 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Theme.Dialog_Bottom" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- <item name="android:windowAnimationStyle">@style/Animation.Dialog_Bottom</item> -->
+    </style>
+
+<!--     <style name="MyRatingBar" parent="@android:style/Widget.RatingBar"> -->
+<!--         <item name="android:progressDrawable">@drawable/my_rating</item> -->
+<!--         <item name="android:minHeight">23dip</item> -->
+<!--         <item name="android:maxHeight">23dip</item> -->
+<!--     </style> -->
+    
+<!--     <style name="MyRatingBar2" parent="@android:style/Widget.RatingBar"> -->
+<!--         <item name="android:progressDrawable">@drawable/my_rating2</item> -->
+<!--         <item name="android:minHeight">19dip</item> -->
+<!--         <item name="android:maxHeight">19dip</item> -->
+<!--     </style> -->
+
+    <style name="Light.Dialog.Transparent" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>
